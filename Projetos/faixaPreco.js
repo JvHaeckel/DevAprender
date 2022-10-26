@@ -39,13 +39,3 @@ let faixa2 = [
     new Construtora('ate 3000', 1500 , 3000),
 
 ]
-
-
-
-
-
-
-
-
-
-
