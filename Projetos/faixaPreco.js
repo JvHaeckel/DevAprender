@@ -37,5 +37,4 @@ let faixa2 = [
     new Construtora('ate 700', 0 , 700),
     new Construtora('ate 1500', 700 , 1500),
     new Construtora('ate 3000', 1500 , 3000),
-
 ]
