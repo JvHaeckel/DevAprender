@@ -15,10 +15,7 @@ numbers.push(5);
 console.log(numbers);
 
 // Sintaxe do Splice
-// Array.splice(
-//     {índice onde iniciar},
-//     {quantos itens remover},
-//     {itens a serem adicionados}
+// Array.splice( onde iniciar, quantos itens remover,itens a serem adicionados
 //   );
 
 // Removendo elemento no inicio
